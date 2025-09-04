@@ -6,6 +6,11 @@ pandas
 sentence-transformers
 deep-translator
 langdetect
+PyPDF2
+python-docx
+pytesseract
+Pillow
+
 
 
 
