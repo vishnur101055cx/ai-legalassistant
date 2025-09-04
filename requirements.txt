@@ -3,3 +3,4 @@ transformers==4.40.4
 torch==2.2.0
 numpy
 pandas
+
