@@ -1,0 +1,11 @@
+case_id,year,text,outcome
+1,2017,"The accused was found guilty of financial fraud involving 50 lakhs rupees; the court ordered a fine of fifty lakh rupees and restitution to victims.","Fine of ₹50,00,000 ordered"
+2,2012,"The petitioner was convicted of murder after trial; evidence established guilt beyond reasonable doubt.","Imprisonment of 30 years"
+3,2019,"The company challenged a tax penalty; court reduced penalty after reviewing documents.","Penalty reduced to ₹10,00,000"
+4,2020,"Tenant failed to pay rent for twelve months; landlord sought eviction and arrears.","Eviction granted; arrears ordered"
+5,2015,"The husband filed for divorce citing cruelty; evidence satisfied court.","Divorce granted"
+6,2018,"Employee challenged summary dismissal without notice; employment tribunal found unfair dismissal.","Reinstatement with compensation of ₹200,000"
+7,2016,"Petitioner challenged FIR under section 498A; investigation showed insufficient evidence.","FIR quashed"
+8,2021,"Builder failed to deliver possession; buyer sought refund and interest.","Refund of ₹25,00,000 + interest ordered"
+9,2014,"Government acquired land without adequate compensation; petition filed for fair compensation.","Compensation of ₹15,00,000 granted"
+10,2022,"Student challenged unfair dismissal from university; tribunal found procedural lapse.","Admission reinstated + fine ₹100,000"

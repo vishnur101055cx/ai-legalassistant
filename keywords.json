@@ -1,0 +1,8 @@
+{
+    "courts": ["court", "high court", "district court", "supreme court", "sessions court", "family court", "consumer forum"],
+    "parties": ["petitioner", "respondent", "plaintiff", "defendant", "appellant", "accused", "applicant"],
+    "documents": ["affidavit", "petition", "f.i.r", "fir", "charge sheet", "id proof", "aadhar", "license", "order", "judgment", "judgement", "evidence"],
+    "outcomes": ["dismissed", "allowed", "granted", "quashed", "sentenced", "reinstated", "acquitted", "fine", "compensation", "imprisonment", "ordered", "set aside"],
+    "dates": ["\\b\\d{1,2}[/-]\\d{1,2}[/-]\\d{2,4}\\b", "\\b\\d{1,2}\\s+(January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{4}\\b"]
+  }
+  
